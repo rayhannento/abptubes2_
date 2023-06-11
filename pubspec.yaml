@@ -1,0 +1,32 @@
+name: tubes2_1304192002
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=2.19.6 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - image/icon.png
+    - image/book1.png
+    - image/book2.png
+    - image/book3.png
+    - image/book4.png
+    - image/book5.png
+    - image/book6.png
+    - image/book7.png
+    - image/book8.png
+    - image/book9.png
+    - image/book10.png
